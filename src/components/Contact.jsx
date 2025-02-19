@@ -27,7 +27,7 @@ const Contact = () => {
                       Our Location
                     </h5>
                     <p className="text-base text-body-color dark:text-dark-6">
-                      401 Broadway, 24th Floor, Orchard Cloud View, London
+                      Rangpur city, 24th Floor, Orchard Cloud View,Bangladesh
                     </p>
                   </div>
                 </div>
@@ -66,7 +66,7 @@ const Contact = () => {
                   <input
                     type="text"
                     name="fullName"
-                    placeholder="Adam Gelius"
+                    placeholder="Rakibul Islam Sumon"
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-body-color placeholder:text-body-color/60 focus:border-primary focus:outline-none dark:border-dark-3 dark:text-dark-6"
                   />
                 </div>
@@ -94,7 +94,7 @@ const Contact = () => {
                   <input
                     type="text"
                     name="phone"
-                    placeholder="+885 1254 5211 552"
+                    placeholder="+885 1786986045"
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-body-color placeholder:text-body-color/60 focus:border-primary focus:outline-none dark:border-dark-3 dark:text-dark-6"
                   />
                 </div>
